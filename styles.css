@@ -62,30 +62,51 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
+#gift-img-sleepy:hover {
+    background-image: url("images/sleepy-cat.gif");
+}
+
+#gift-img-breakfast:hover {
+    background-image: url("images/breakfast.gif");
+}
+
+#gift-img-banana:hover {
+    background-image: url("images/banana.gif");
+}
+
+#gift-img-homies:hover {
+    background-image: url("images/homies.JPG");
+}
+
+#gift-img-cry:hover {
+    background-image: url("images/cry.gif");
+}
+
+#gift-img-shower:hover {
+    background-image: url("images/shower.gif");
+}
+
+#gift-img-sleep:hover {
+    background-image: url("images/sleep.gif");
+}
+
 #gift-img-happy:hover {
     background-image: url("images/happy.gif");
-}
-
-#gift-img-hot:hover {
-    background-image: url("images/hot.gif");
-}
-
-#gift-img-genius:hover {
-    background-image: url("images/genius.gif");
-}
-
-#gift-img-badass:hover {
-    background-image: url("images/badass.gif");
-}
-
-#gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
 }
 
 #footer {
     font-style: italic;
     width: 400px;
-    margin: 40px auto 20px;
+    margin: 40px auto 40px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    font-style: bold;
+    font-family: 'Happy Monkey', cursive;
+    margin: 0 5px;
 }
 
 a {
